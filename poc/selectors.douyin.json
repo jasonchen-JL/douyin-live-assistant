@@ -1,0 +1,8 @@
+{
+  "status": "Validated on room 100000000001 for WebcastChatMessage, 2026-09-06; completeness unverified",
+  "adapter": "douyin-react",
+  "root": ".webcast-chatroom___list",
+  "maxQueue": 10000,
+  "maxSeen": 50000,
+  "scanIntervalMs": 250
+}

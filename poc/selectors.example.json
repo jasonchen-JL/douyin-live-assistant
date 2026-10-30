@@ -1,0 +1,13 @@
+{
+  "status": "UNVERIFIED: calibrate against a live comment before use",
+  "root": ".webcast-chatroom___list",
+  "row": "[data-poc-comment]",
+  "nickname": "[data-poc-nickname]",
+  "content": "[data-poc-content]",
+  "userLink": "a[href*='/user/']",
+  "userIdAttribute": null,
+  "messageIdAttribute": null,
+  "sourceTime": null,
+  "sourceTimeAttribute": null,
+  "maxQueue": 10000
+}
